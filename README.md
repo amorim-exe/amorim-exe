@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header&fontSize=30&fontColor=0D1117"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=40&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Joao+Victor+Amorim;19+years+young+%F0%9F%92%99;From+Sao+Paulo,+Brazil;Passionate+Developer+and+Tech+Enthusiast;Welcome+to+my+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=40&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Joao+Victor+Amorim;From+Sao+Paulo,+Brazil;Passionate+Developer+and+Tech+Enthusiast;Welcome+to+my+world!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amorim-exe&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Joao Victor Github Stats" /> 
